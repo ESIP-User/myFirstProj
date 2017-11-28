@@ -1,2 +1,0 @@
-# myFirstProj
-test
